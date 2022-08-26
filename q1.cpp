@@ -8,6 +8,8 @@ using namespace std;
 //  Set 03
 //  Question 1
 
+//Time complexity -> O(n)
+
 int main(){
     int n;
     cin>>n;
